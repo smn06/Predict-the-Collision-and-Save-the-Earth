@@ -83,7 +83,7 @@ The official dataset is from NASA's official website https://cneos.jpl.nasa.gov/
 - Dataset can be found in src -> data folder.
 - Main driver program can be found at src -> model folder.
 
-The models are used in this project
+The models are used in this project,
 - Adaboost Classifier
 - Logistic Regression
 - Multi-Layer Perceptron
