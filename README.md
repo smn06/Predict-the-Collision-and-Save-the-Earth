@@ -123,6 +123,10 @@ For this program, a user input is required.
 - All the dataset visualization performed using Autoviz
 - All the evaluation score performed using confusion matrix and yellowbrick classification report
 
+## Snaps
+![plot](./reports/figures/heatmap.png)
+
+
 ## License
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs) 
 
