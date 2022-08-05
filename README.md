@@ -2,7 +2,7 @@ Predict the Collision and Save the Earth
 ==============================
 
 ![Alt Text](https://media.giphy.com/media/iMMfCfD9TLuCY/giphy.gif)
-## Hurry!!!!, Predict the Collision from the Nearest Object around this world and Save the Earth.
+## Predict the Collision from the Nearest Object around this world and Save the Earth.
 From the NASA's official data, this project is developed for doing the prediction. Top 10 machine learning model is used to make the prediction with evaluation metrics such as Accuracy, Precision, Recall, F1-Score. And the data visualization is one of the core part of this project. 
 
 Project Organization
@@ -125,6 +125,8 @@ For this program, a user input is required.
 
 ## Snaps
 ![Heatmap](./reports/figures/heatmap.png)
+![Heatmap](./reports/figures/xgboost_report.png)
+![Heatmap](./reports/figures/pair-wise_scatter_plot.png)
 
 
 ## License
