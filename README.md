@@ -58,16 +58,16 @@ Project Organization
 
 
 ##  Requirements
-matplotlib == 3.5.1
-numpy == 1.22.2
-pandas == 1.4.1
-scikit-learn == 1.1.1
-scikit-plot == 0.3.7
-seaborn == 0.11.2
-tensorflow == 2.8.0
-xgboost == 1.6.1
-autoviz == 0.1.42
-sklearn == 0.0
+- matplotlib == 3.5.1
+- numpy == 1.22.2
+- pandas == 1.4.1
+- scikit-learn == 1.1.1
+- scikit-plot == 0.3.7
+- seaborn == 0.11.2
+- tensorflow == 2.8.0
+- xgboost == 1.6.1
+- autoviz == 0.1.42
+- sklearn == 0.0
 All the packages can be installed from requirements.txt using the following code-
 ```sh
 pip install -r requirements.txt
