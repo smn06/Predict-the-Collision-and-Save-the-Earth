@@ -124,7 +124,7 @@ For this program, a user input is required.
 - All the evaluation score performed using confusion matrix and yellowbrick classification report
 
 ## Snaps
-![plot](./reports/figures/heatmap.png)
+![Heatmap](./reports/figures/heatmap.png)
 
 
 ## License
