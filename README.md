@@ -123,6 +123,7 @@ For this program, a user input is required.
 ## Notes
 - All the dataset visualization performed using Autoviz
 - All the evaluation score performed using confusion matrix and yellowbrick classification report
+- Packages are built into the dist folder
 
 ## Snaps
 ![Heatmap](./reports/figures/heatmap.png)
