@@ -75,7 +75,8 @@ pip install -r requirements.txt
 ```
 
 ## About the Dataset
-The official dataset is from NASA's official website https://cneos.jpl.nasa.gov/ca/ . And the modified version of this dataset is available on Kaggle. Link : https://www.kaggle.com/datasets/sameepvani/nasa-nearest-earth-objects
+The official dataset is from NASA's official website https://cneos.jpl.nasa.gov/ca/ . And the modified version of this dataset is available on Kaggle. Link : https://www.kaggle.com/datasets/sameepvani/nasa-nearest-earth-objects 
+The dataset consists of 90837 rows and 10 columns.
 ## Overview
 - The whole implemented program can be found at notebook folder.
 - Used models can be found in models folder.
