@@ -40,7 +40,7 @@ warnings.filterwarnings("ignore", category=UserWarning)
 
 #load dataset and reading
 import pandas as pd
-data = pd.read_csv("/media/smn06/88849B27849B16B2/project/neo.csv")
+data = pd.read_csv("/media/smn06/88849B27849B16B2/project/test/Predict the Collision and Save the Earth/src/data/neo.csv")
 
 
 #Exploring the labels and types.
@@ -142,9 +142,7 @@ def predict():
         return
         
         
-        
-
-if __name__=="__main__":
+def main():
     
     welcome = """Hurry!!!!, Predict the Collision from the Nearest Object around this world
           and Save the Earth.
@@ -170,6 +168,15 @@ if __name__=="__main__":
           
     print(welcome)
     predict()
+
+
+
+if __name__=="__main__":
+    
+    main()
+
+
+
 
 
 
