@@ -77,7 +77,7 @@ The models are used in this project,
 
 - First install the package using pip
 ```sh
-pip install predict-the-collision
+pip install predict-the-object-collision
 ```
 
 - import main_fun() from predict_collision
